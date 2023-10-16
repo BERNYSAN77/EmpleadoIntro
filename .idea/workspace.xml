@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3560778f-4aaa-44da-8d34-366137b9b32b" name="Changes" comment="Empleado constructores/métodos">
+    <list default="true" id="3560778f-4aaa-44da-8d34-366137b9b32b" name="Changes" comment="Empleado constructores/métodos incluye talle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bernarda.sandoval\IdeaProjects\EmpleadoIntro\docs" />
       <recent name="C:\Users\bernarda.sandoval\IdeaProjects\EmpleadoIntro\src" />
     </key>
   </component>
@@ -52,11 +53,19 @@
       <option name="project" value="LOCAL" />
       <updated>1697048754716</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Empleado constructores/métodos incluye talle">
+      <created>1697461318998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697461318998</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Empleado constructores/métodos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Empleado constructores/métodos" />
+    <MESSAGE value="Empleado constructores/métodos incluye talle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Empleado constructores/métodos incluye talle" />
   </component>
 </project>
